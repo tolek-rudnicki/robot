@@ -38,9 +38,9 @@ void loop() {
         s4.write(0);
     }
 
-    delay(55);
+    delay(110);
     digitalWrite(LED_BUILTIN, LOW);
-    delay(55);
+    delay(110);
   
 }
 
